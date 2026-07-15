@@ -1,0 +1,27 @@
+ADDI x1, x0, 10
+NOP
+NOP
+ADDI x2, x0, 4
+NOP
+NOP
+ADD x3, x1, x2
+NOP
+NOP
+SUB x4, x1, x2
+NOP
+NOP
+ADDI x5, x0, 20
+NOP
+NOP
+ADDI x6, x0, 3
+NOP
+NOP
+MUL x7, x5, x6
+NOP
+NOP
+DIV x8, x5, x6
+NOP
+NOP
+REM x9, x5, x6
+NOP
+NOP

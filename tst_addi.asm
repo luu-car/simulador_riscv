@@ -1,0 +1,15 @@
+ADDI x1, x0, 5
+NOP
+NOP
+ADDI x2, x0, 10
+NOP
+NOP
+ADD x3, x1, x2
+NOP
+NOP
+SW x3, 0(x0)
+NOP
+NOP
+LW x4, 0(x0)
+NOP
+NOP

@@ -1,0 +1,5 @@
+*.out
+*.o
+*.bin
+*.elf
+*.pdf

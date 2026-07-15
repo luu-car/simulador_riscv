@@ -1,0 +1,12 @@
+ADDI x1, x0, 1
+NOP
+NOP
+ADDI x2, x0, 3
+NOP
+NOP
+SLL x3, x1, x2
+NOP
+NOP
+SRL x4, x3, x2
+NOP
+NOP
