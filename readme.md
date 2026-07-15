@@ -24,8 +24,10 @@ O simulador foi desenvolvido utilizando apenas recursos nativos do Python, dispe
 
 1. Abra o terminal na pasta raiz onde o projeto está salvo.
 2. Execute os comandos:
-  ```bash
-  python simulador_riscv.py```
+  ```
+  bash
+  python simulador_riscv.py
+  ```
 
 4. A janela gráfica abrirá exibindo a interface com 3 botões principais de controle:
 * **`Carregar .asm`** ➔ Abre a janela para selecionar o seu arquivo de código Assembly RISC-V (`.asm`).
